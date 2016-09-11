@@ -24,21 +24,21 @@ Its analyses provide the foundational building blocks for higher-level and domai
 
 ##\WebContent\WEB-INF\lib (jars)
 
-stanford-corenlp-3.3.1-models
-stanford-corenlp-3.3.1
-jython-standalone-2.5.4-rc1
-mongo-java-driver-3.0.2
-ejml-0.23
-xom
-javax.json
-joda-time
-jollyday
+* stanford-corenlp-3.3.1-models
+* stanford-corenlp-3.3.1
+* jython-standalone-2.5.4-rc1
+* mongo-java-driver-3.0.2
+* ejml-0.23
+* xom
+* javax.json
+* joda-time
+* jollyday
 
 
 ##Built With
-Twitter Crawler - python API
-NoSQL DataBase - MongoDB
-Client Side - Javascript,HTML5,CSS3,Jquery,Ajax
-Server Side - Java
-CoreNLP - Sentiment Analysis Tool - Java API
+* Twitter Crawler - python API
+* NoSQL DataBase - MongoDB
+* Client Side - Javascript,HTML5,CSS3,Jquery,Ajax
+* Server Side - Java
+* CoreNLP - Sentiment Analysis Tool - Java API
 
